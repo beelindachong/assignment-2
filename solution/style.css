@@ -16,7 +16,7 @@ section {
   border: 3px solid black;
   background-color: #BEBDB8;
   padding: 50px 10px 10px 10px;
-  height: 150px;
+  height: auto;
   margin: 15px 15px 15px 15px;
   font-size: 15px;
   color: black;
